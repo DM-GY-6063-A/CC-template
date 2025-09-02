@@ -1,4 +1,4 @@
-# p5.js multi sketch template
+# template
 
 ---
 
@@ -6,7 +6,6 @@ This is a README file that can be used to describe and document your assignment.
 
 Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
 
----
 ---
 
 # Heading1
